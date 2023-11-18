@@ -1,0 +1,7 @@
+table{
+	background-color:black;
+	color:white;
+}
+table:hover{
+	background-color:gray;
+}
