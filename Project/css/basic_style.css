@@ -76,10 +76,13 @@ h1{
 */
 @keyframes race {
     0%, 100%{
-        transform: translateY(0px);
+        rotate: 0deg;
         background-image: url("../images/icons/icons.png");
     }
-    50%{
-        transform: translateY(300px);
+    25%{
+        rotate: 25deg;
+    }
+    75%{
+        rotate: -25deg;
     }
 }
