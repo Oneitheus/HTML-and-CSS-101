@@ -1,0 +1,43 @@
+.cake{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 25px;
+}
+
+.footer{
+    text-align: center;
+    font-weight: bold;
+}
+
+table{
+    border: 2px solid;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+}
+
+td{
+    text-align: center;
+    border: 1px solid;
+    padding-left: 10px;
+}
+
+h1{
+    text-align: center;
+    border: 1px solid;
+}
+
+#toprow{
+    background-color: brown;
+}
+
+.textimage{
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: white;
+}
