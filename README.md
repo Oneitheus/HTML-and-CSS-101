@@ -2,5 +2,8 @@
 For learning purposes
 
 ## Projects
-- [Space Dog Resort](https://oneitheus.github.io)
 - Space Dog Cinemas (Website WIP)
+
+### Space Dog Resort
+#### [Space Dog Resort](https://oneitheus.github.io)
+
