@@ -9,3 +9,12 @@ My first project that utilizes HTML and CSS, and soon to have JavaScript.
 
 ### Space Dog Cinema (Website is currently WIP)
 Second project similar to Space Dog Resort, but utilizes Bootstrap-4 for many of its component.
+
+### Pizza Menu
+Simulates a pizza order menu.
+
+### Calculator
+A basic calculator with only 4 functions. 
+
+### Tic-Tac-Toe Game
+A game of Tic-Tac-Toe.
